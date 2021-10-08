@@ -1,0 +1,14 @@
+{
+  "users":[
+  {
+  "userid":"amit",
+  "age":21,
+  "address":"delhi"
+  },{
+     "userid":"ram",
+  "age":22,
+  "address":"mumbai"
+  }
+  ]
+  
+}
